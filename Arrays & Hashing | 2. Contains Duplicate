@@ -14,7 +14,6 @@ Output: false
 
 */
 
-
 class Solution {
     public boolean hasDuplicate(int[] nums) {
         HashMap<Integer, Boolean> uniqueMap = new HashMap<> ();
